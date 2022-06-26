@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macWD
 - 👀 I’m interested in home automation, MIDI, MQTT, Arduino
-- 🌱 I’m currently learning Home Assistant, NodeMCU
+- 🌱 I’m currently learning Home Assistant, GitHub
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mac.WD@icloud.com
 
