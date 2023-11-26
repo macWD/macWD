@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macWD
 - 👀 I’m interested in home automation, MIDI, MQTT, Arduino, Python, C, pygame
-- 🌱 I’m currently learning Home Assistant, pygame
+- 🌱 I’m currently learning Home Assistant, pygame, XCode, Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... gitHub
 
